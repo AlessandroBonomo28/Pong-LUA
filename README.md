@@ -15,4 +15,4 @@ Click [here](https://www.youtube.com/watch?v=9L8DC1-4IbQ&t=81s&ab_channel=Idostu
 ![Screenshot (157)](https://user-images.githubusercontent.com/75626033/217107919-a21af56f-7a81-4184-9b3e-5251a4ad8dcb.png)
 ![Screenshot (175)](https://user-images.githubusercontent.com/75626033/217109930-8a49bd85-9350-4664-b40a-2838efaaa799.png)
 ![Screenshot (173)](https://user-images.githubusercontent.com/75626033/217109931-4b6a3c6f-bb4d-4899-89c7-1d5324ac8531.png)
-![Screenshot (174)](https://user-images.githubusercontent.com/75626033/217109934-b1c94fed-6051-4866-9b04-e8b4c204e0e3.png)
+
