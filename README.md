@@ -8,6 +8,12 @@ Click [here](https://www.youtube.com/watch?v=9L8DC1-4IbQ&t=81s&ab_channel=Idostu
 - Copy the two scripts "pong.lua" and "autorun.lua" inside the floppy in minecraft
 - Insert the floppy into the computer
 - Play
+## How to play
+
+- Use the arrows in the main menu to select the options
+- Press Enter to confirm options
+- SHIFT+RIGHT CLICK to move the players on the screen
+
 # Screenshots
 ![Screenshot (174)](https://user-images.githubusercontent.com/75626033/217109922-f0da36ef-13bb-4b3f-9b6e-c700a1dd4969.png)
 
