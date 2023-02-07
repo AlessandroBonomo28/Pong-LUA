@@ -4,8 +4,8 @@ Click [here](https://www.youtube.com/watch?v=9L8DC1-4IbQ&t=81s&ab_channel=Idostu
 # Setup
 - Install computer craft
 - Craft fully functional computer with Graphic card, floppy reader, memory etc...
-- Copy the two programs inside the floppy
-- Create a startup script that runs the "title" script
+- Clone the repository
+- Copy the two scripts "pong.lua" and "autorun.lua" inside the floppy in minecraft
 - Insert the floppy into the computer
 - Play
 # Screenshots
