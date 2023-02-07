@@ -1,4 +1,4 @@
-# Pong inside Minecraft [NEED OPEN COMPUTERS MOD]
+# Pong inside Minecraft
 Pong using LUA programming language, playable in minecraft with **OPEN COMPUTERS MOD**. <br>
 Click [here](https://www.youtube.com/watch?v=9L8DC1-4IbQ&t=81s&ab_channel=Idostuff) to see the demo on YouTube.
 # Setup
